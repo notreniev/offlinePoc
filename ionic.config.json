@@ -1,0 +1,7 @@
+{
+  "name": "offlinePoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
